@@ -1,0 +1,10 @@
+/** Customize post excerpts in Genesis theme */
+add_filter( 'excerpt_length', 'custom_excerpt_length' );
+function custom_excerpt_length($length) {
+    return 45; // Results in 45 words excerpt on homepage
+}
+
+/** If you want to custamize the Read More link then copy and past below code*/
+function custom_read_more_link() {
+return '<a href="' .get_permalink() .'>Continue reading..</a>';// Change Continue reading with you own text
+}
