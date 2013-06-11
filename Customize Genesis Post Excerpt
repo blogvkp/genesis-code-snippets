@@ -1,0 +1,5 @@
+/** Modify post excerpts lenght */
+add_filter( 'excerpt_length', 'custom_excerpt_length' );
+function custom_excerpt_length($length) {
+    return 45; // Force output as 45 words on your homepage
+}
