@@ -6,7 +6,7 @@ A Complete collection of <b>genesis code snippets</b> on one single page. Actual
 	<li>Customize Genesis Breadcrumbs</li>
 	<li>Modify Your Post Formats</li>
 	<li>Reposition Your Primary &amp; Secondary Navigation.</li>
-	<li><a title="genesis post excerpts" href="http://blogvkp.com/how-to-customize-genesis-post-excerpts/" target="_blank">Customize Genesis Post Excerpts</a></li>
+	<li><a title="genesis post excerpts" href="http://blogvkp.com/customize-genesis-post-excerpts/" target="_blank">Customize Genesis Post Excerpts</a></li>
 	<li>Edit Your Post Meta</li>
 	<li>Edit Footer Copyright Field</li>
 	<li>Add Widgets To Your Genesis Footer</li>
